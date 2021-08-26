@@ -1,4 +1,4 @@
 # autonomous-systems
 class 1
 
-Introdução ao GitHub
+Alguns dos exercícios realizados nas aulas de Sistemas Autônomos.
